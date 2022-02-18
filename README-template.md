@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://nft-project-card.vercel.app)
+- Solution URL: [Vercel](https://nft-project-card.vercel.app)
 
 ## My process
 
